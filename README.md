@@ -98,13 +98,15 @@
 
 ## 输出长什么样
 
-说一句「出日报」，拿到这个：
+说一句「出日报」，拿到这个。下面是一份**真实日报**，人名和业务信息已脱敏：
 
 ![反思日报样例](examples/sample-daily-report-preview.png)
 
-完整 PDF（2 页，含全部条目和明日建议）：[`examples/sample-daily-report.pdf`](examples/sample-daily-report.pdf)
+完整 PDF（2 页，含 3 条完整条目和明日建议）：[`examples/sample-daily-report.pdf`](examples/sample-daily-report.pdf)
 
 版面固定四块：**今日概览**（数字卡片 + Claude 写的总评）、**分类分布**、**今日条目**（按分类分组）、**明日可执行建议**（≤3 条，每条一周内可验证）。周报同构，把"今日"换成 Dubai Week 区间。
+
+值得看的是总评那段。这天三条全归入「认知盲区」，而且都是**方法论吸收**而不是实际失误——总评直接点出这个性质，并且提醒"16 条新方法记下来不算长本事，明天能用上 1 条才算"。这就是总评该干的事：不复述条目，而是指出今天这批记录的共同性质，以及它暴露的倾向。
 
 ---
 
