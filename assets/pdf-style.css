@@ -43,6 +43,9 @@ h3 {
   font-weight: 600;
   margin: 16px 0 8px;
   color: #333;
+  /* 分类标题不与它的条目分页分离 */
+  page-break-after: avoid;
+  break-after: avoid;
 }
 
 p { margin: 6px 0; }
