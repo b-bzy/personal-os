@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# 真实个人数据不入库，只保留目录骨架与占位说明
+data/*
+!data/mistakes.md
+!data/weekly
+data/weekly/*
+!data/weekly/.gitkeep
